@@ -1,6 +1,0 @@
-result time is 1.1682510375976562e-05
-result time is 7.152557373046875e-06
-result time is 7.62939453125e-06
-result time is 6.9141387939453125e-06
-result time is 8.344650268554688e-06
-result time is 7.62939453125e-06
